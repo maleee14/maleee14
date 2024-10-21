@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maleee14
-- 👀 I’m interested in Web Development Especially Backend Development
-- 🌱 I’m currently learning Laravel
+- 👋 Hi there! I’m @maleee14
+- 🌐 I’m passionate about Web Development, with a special focus on Backend Development.
+- 📚 Currently diving into Laravel to enhance my skills and build amazing web applications. Excited to connect and share knowledge with fellow developers!
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
